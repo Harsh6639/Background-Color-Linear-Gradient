@@ -13,4 +13,10 @@ HTML5
 CSS3
 JavaScript
 
+                    📜 How It Works
+1️⃣ Click on Button 1 to generate a random first color.
+2️⃣ Click on Button 2 to generate a random second color.
+3️⃣ The background will update with a new linear gradient using these two colors.
+4️⃣ Click on the gradient code to copy it to your clipboard.
+
 This project is free to use and open-source. No license restrictions. 🚀
